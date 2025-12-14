@@ -56,7 +56,7 @@ st.markdown("""
         margin-right: 20%;
     }
     .safety-warning {
-        background-color: #fff3cd;
+        background-color: #C43434;
         border-left: 4px solid #ffc107;
         padding: 1rem;
         margin: 1rem 0;
